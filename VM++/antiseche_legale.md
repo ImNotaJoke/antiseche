@@ -1,6 +1,5 @@
 # BlipBloup  
 
-**add sudoers**
 
 
 
@@ -15,6 +14,8 @@
 **changer le mdp user**
 `$ passwd toto`  
 
+
+**add sudoers**
 usermod -aG sudo user <!-- ajoute user au groupe sudo --->
 
 > les infos users sont stockés dans /etc/passwd
